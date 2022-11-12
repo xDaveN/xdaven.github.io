@@ -10,7 +10,9 @@ need a magnet? dm me and sign/encrypt using my **old** pgp key. if you don't hav
 
 stole my phone? keep it you little rat but consider sending some XMR to:
 
-`8BbWWvhZHJfiv9bgtP7eMrGgvNsfNWYEL57jb74LZAvYMnqLo5pj71KDDohdGi43abXFvZn3CtkughAnXCMZXXMxTy4MxJU`
+```
+8BbWWvhZHJfiv9bgtP7eMrGgvNsfNWYEL57jb74LZAvYMnqLo5pj71KDDohdGi43abXFvZn3CtkughAnXCMZXXMxTy4MxJU
+```
 * * *
 # New PGP Key
 
