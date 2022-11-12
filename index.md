@@ -3,17 +3,10 @@ layout: default
 ---
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+* * *
+# New PGP Key
 
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-
-```ruby
+```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mQINBGNu/cQBEADAgCMHPWI00sCn//JfopP1cWne/oYgbseNlbA0OMNwPnACL9vR
@@ -65,7 +58,6 @@ Ln+OFp7D20sWfogZiIyP2LKjLTt7z7GP1YVKH1fgyQfdc7RSOKRW5FpMEE7xck4J
 SlfchWWOaesTBbRPjdhekU4owvk=
 =3LHl
 -----END PGP PUBLIC KEY BLOCK-----
-
 ```
 
 
@@ -76,7 +68,3 @@ SlfchWWOaesTBbRPjdhekU4owvk=
 | out of stock | good and plenty   | nice  |
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
