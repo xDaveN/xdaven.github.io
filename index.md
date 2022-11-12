@@ -2,7 +2,12 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+old github acc **wiped**, releases on various trackers are still up.
+old nulled content **wiped**, fuck you KLT, suck my nuts.
+need a magnet? msg me and sign/encrypt using my **old** pgp key. if you don't have it you're out of luck.
+
+stole my phone? keep it you little rat but consider sending some XMR to
+`8BbWWvhZHJfiv9bgtP7eMrGgvNsfNWYEL57jb74LZAvYMnqLo5pj71KDDohdGi43abXFvZn3CtkughAnXCMZXXMxTy4MxJU`
 * * *
 # New PGP Key
 
@@ -59,8 +64,6 @@ SlfchWWOaesTBbRPjdhekU4owvk=
 =3LHl
 -----END PGP PUBLIC KEY BLOCK-----
 ```
-
-
 
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
