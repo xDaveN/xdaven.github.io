@@ -6,7 +6,7 @@ old github acc **wiped**, releases on various trackers are still up.
 
 old nulled content **wiped**, fuck you KLT, suck my nuts.
 
-need a magnet? msg me and sign/encrypt using my **old** pgp key. if you don't have it you're out of luck.
+need a magnet? dm me and sign/encrypt using my **old** pgp key. if you don't have it you're out of luck.
 
 stole my phone? keep it you little rat but consider sending some XMR to:
 
